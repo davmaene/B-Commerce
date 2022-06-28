@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "b-commerce",
+    "slug": "b-commerce",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "b-commerce"
+}
